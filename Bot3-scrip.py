@@ -1,5 +1,5 @@
 # Author: Ibrehima Keita Devops Engineer US- Silver Spring
-# Use boto3 to manage EBS Volune : Create snapshot and Volumes, create key pairs and an IAM users 
+# Use boto3 to manage EBS Volune : Create snapshot and Volumes, create key pairs and an IAM user 
 # Perequiste: intall pip, bot3 and configure AWS CLI in your local Environment 
 from distutils import config
 
